@@ -1,0 +1,23 @@
+{
+  "name": "SenseForth App",
+  "description": "This is senseforth react app",
+  "main": "index.js",
+  "authors": [
+    "Nakul Nagariya"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "crypto",
+    "currency"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "senseforth_app",
+  "version": "1.0.0",
+  "description": "This is poc on react for Senseforth pvt. ltd.",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "react-hot-loader": "^4.0.1",
+    "react-html-id": "^0.1.4",
+    "react-icons": "^2.2.7",
+    "react-router-dom": "^4.2.2"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-cli": "^6.18.0",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "create-react-class": "^15.6.3",
+    "css-loader": "^0.28.11",
+    "json-loader": "^0.5.7",
+    "node-sass": "^4.9.0",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "sass-loader": "^7.0.1",
+    "style-loader": "^0.20.3",
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.0.14",
+    "webpack-dev-server": "^3.1.3"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nakulnagariy/senseforth_reactApp.git"
+  },
+  "keywords": [
+    "react",
+    "crypto",
+    "currency"
+  ],
+  "author": "Nakul Nagariya",
+  "license": "MIT"
+}
